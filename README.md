@@ -16,25 +16,45 @@ Spoorthi R - PES1UG19CS500
 
 ## Libraries to be installed (automatically installed when run on google colab)
 !pip install neuralcoref
+
 !pip install flashtext
+
 !pip install datasets==1.0.2
+
 !pip install tqdm==4.55.1
+
 !pip install --quiet transformers==4.1.1
+
 !pip install --quiet tokenizers==0.9.4 
+
 !pip install --quiet sentencepiece==0.1.94
+
 !pip install --quiet tqdm==4.56.0
+
 !pip install --quiet pytorch-lightning==1.2.10
+
 !pip install scikit-learn
+
 !pip install multi_rake
+
 !pip install tensorflow
+
 !pip install keras
+
 !pip install sense2vec
+
 !pip install -U wn==0.0.22
+
 !pip install transformers
+
 !pip install spacytextblob
+
 !python -m textblob.download_corpora
+
 !python -m spacy download en_core_web_sm
+
 !wget https://github.com/explosion/sense2vec/releases/download/v1.0.0/s2v_reddit_2015_md.tar.gz
+
 !tar -xvf s2v_reddit_2015_md.tar.gz
 
 ## Execution
