@@ -10,11 +10,9 @@
 'As the cake bakes, the gas bubbles get trapped in the batter, which makes the cake light and fluffy.','cake bakes'
 'As the cake bakes, the gas bubbles get trapped in the batter, which makes the cake light and fluffy.','cake light'
 'Later, inside the oven, the proteins and starches in the flour turn into a sturdy structure.','flour turn'
-'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy :(
-Any system can function only if all it's parts do their job.','cake batter'
+'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy. Any system can function only if all it's parts do their job.','cake batter'
 'When it’s heated, the protein in the egg opens up and helps bind by making the batter into a semi-solid state.','protein'
-'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy :(
-Any system can function only if all it's parts do their job.','cake'
+'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy. Any system can function only if all it's parts do their job.','cake'
 'They coat the proteins in the flour, which prevents them from mixing with water and forming gluten.','flour'
 'When it’s heated, the protein in the egg opens up and helps bind by making the batter into a semi-solid state.','batter'
 'When mixed in batter, it makes carbon dioxide bubbles that help the cake to rise.','mixed'
@@ -33,22 +31,13 @@ Any system can function only if all it's parts do their job.','cake'
 'Later, inside the oven, the proteins and starches in the flour turn into a sturdy structure.','inside'
 'Later, inside the oven, the proteins and starches in the flour turn into a sturdy structure.','oven'
 'Later, inside the oven, the proteins and starches in the flour turn into a sturdy structure.','starches'
-'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy :(
-Any system can function only if all it's parts do their job.','put'
+'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy. Any system can function only if all it's parts do their job.','put'
 'For example if you put too much baking powder, the cake can crack.','crack'
-'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy :(
-Any system can function only if all it's parts do their job.','infact'
-'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy :(
-Any system can function only if all it's parts do their job.','eggs'
-'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy :(
-Any system can function only if all it's parts do their job.','hard'
-'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy :(
-Any system can function only if all it's parts do their job.','heavy'
-'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy :(
-Any system can function only if all it's parts do their job.','system'
-'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy :(
-Any system can function only if all it's parts do their job.','function'
-'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy :(
-Any system can function only if all it's parts do their job.','parts'
-'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy :(
-Any system can function only if all it's parts do their job.','job'
+'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy. Any system can function only if all it's parts do their job.','infact'
+'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy. Any system can function only if all it's parts do their job.','eggs'
+'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy. Any system can function only if all it's parts do their job.','hard'
+'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy. Any system can function only if all it's parts do their job.','heavy'
+'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy. Any system can function only if all it's parts do their job.','system'
+'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy. Any system can function only if all it's parts do their job.','function'
+'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy. Any system can function only if all it's parts do their job.','parts'
+'Infact, once I put too much eggs in my cake batter and the cake became hard and heavy. Any system can function only if all it's parts do their job.','job'
