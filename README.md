@@ -58,11 +58,10 @@ Spoorthi R - PES1UG19CS500
 !tar -xvf s2v_reddit_2015_md.tar.gz
 
 ## Execution
-1. Upload baking.txt onto files section on google colab
-2. Run the Question_Generation.ipynb file on GPU runtime type
+1. Create a folder called NLP on your google drive and upload baking.txt onto it.
+2. Run the Automatic_MCQ_Generator.ipynb file on GPU runtime type
 3. It produces files: keywords.txt, QandA.txt, context.txt
-4. Upload these files into DistractorGeneration.ipynb file space on google colab
-5. Run the DistractorGeneration.ipynb file which will produce MCQ.txt file with the generated questions and distractors
+4. Run the DistractorGeneration.ipynb file which will produce MCQ.txt file with the generated questions and distractors
 
 (Note: 2 seperate colab files were created for question generation and distractor generation due to conflicting dependencies)
 
