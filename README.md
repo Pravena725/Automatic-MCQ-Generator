@@ -8,8 +8,6 @@ B Pravena -PES2UG19CS076
 
 Varna Satyanarayana - PES2UG19CS448
 
-Spoorthi R - PES1UG19CS500
-
 ## Prerequisites
 1. Switch on GPU mode on google colab
 2. Download baking.txt and upload onto google colab folders
